@@ -1,10 +1,9 @@
 ## Multiplicar Console App from node JS 
 
-This is an application of testing node
+Aplicacion de node que crea o lista tabla de multiplicar 
 
-ejecutar el comando 
+Para instalar y reconstruir todas las dependencias se debe ejecutar el comando 
 
 npm install 
-npm ....
-.....
-...
+
+Esto lee la configuración del package.json e instala todos los componentes necesarios configurados
