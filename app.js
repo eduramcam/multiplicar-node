@@ -1,6 +1,7 @@
 /**
  * Desarrollador Eduardo Ramirez Camacho
  * Pruebas de Node Js
+ * TEST CMD: node app crear listar -b 6 -l 10
  */
 
 const { crearArchivo, listarTabla } = require('./multiplicacion/multiplicacion');
